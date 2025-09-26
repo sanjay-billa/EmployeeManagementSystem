@@ -1,0 +1,21 @@
+# .gitignore for Java, Maven, Spring Boot
+
+# Maven target directory
+/target/
+
+# IntelliJ IDEA files
+/.idea/
+/*.iml
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# H2 database files
+*.mv.db
+*.h2.db
